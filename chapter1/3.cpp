@@ -1,4 +1,3 @@
-//1-3//
 #include <iostream>
 int main() {
 	int i, a, b, sum = 0;
@@ -7,5 +6,5 @@ int main() {
 	for(i = a; i <= b; i++) {
 		sum += i;
 	}
-	std::cout << a << "에서 " << b << "더한 결과는 " << sum << "입니다.";
+	std::cout << a << "에서 " << b << "까지 더한 결과는 " << sum << "입니다";
 }
