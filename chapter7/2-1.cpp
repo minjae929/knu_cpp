@@ -1,10 +1,7 @@
 #include <iostream>
 #include <string>
 #include <cstring>
-
 using namespace std;
-
-
 
 class Book {
 	string title;
